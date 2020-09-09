@@ -1,0 +1,13 @@
+{
+  "name": "servless-api",
+  "version": "1.0.0",
+  "description": "Servless api using microsoft azure functions",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LRezende",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
